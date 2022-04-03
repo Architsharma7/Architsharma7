@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Archit</h1>
-<h3 align="center">I'm a passionate front-end developer.</h3>
+<h3 align="center">Aspiring Software Developer and first-year computer science student. I am eager to learn new technologies and apply them to either develop something helpful or improve existing applications.</h3>
 
-- 🔭 I’m currently working on **Spotify webpage clone.**
+- 🔭 I’m currently working on **Daily task planner app.**
 
 - 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **Android projects.**
 
-- 📫 How to reach me **architsharma711@gmail.com**
+- 📫 How to reach me **architsharma711@gmail.com.**
 
-- ⚡ Fun fact **I run on coffee.**
+- ⚡ Fun fact **: I run on coffee.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
