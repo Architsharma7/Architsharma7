@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Archit</h1>
 <h4 align="center">Aspiring Software Developer and first-year computer science student. I am eager to learn new technologies and apply them to either develop something helpful or improve existing applications.</h4>
 
-- 🔭 I’m currently working on **Daily task planner app.**
+- 🔭 I’m currently working on **Mentalwellbeing website**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React.js**
 
-- 👯 I’m looking to collaborate on **Android projects.**
+- 👯 I’m looking to collaborate on **Web Development projects.**
 
 - 📫 How to reach me **architsharma711@gmail.com.**
 
