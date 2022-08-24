@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Archit</h1>
 <h3 align="center">Aspiring Software Developer and first-year computer science student. I am eager to learn new technologies and apply them to either develop something helpful or improve existing applications.</h3>
 
-- 🔭 I’m currently working on **Disney+ Hotstar Clone**
+- 🔭 I’m currently working on **Whitelist Dapp**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Solidity** and practcing **React Js**
 
 - 👯 I’m looking to collaborate on **Web Development projects.**
 
