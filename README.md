@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Whitelist Dapp**
 
-- 🌱 I’m currently learning **Solidity** and practcing **React Js**
+- 🌱 I’m currently learning **Solidity** and practicing **React Js**
 
 - 👯 I’m looking to collaborate on **Web Development projects.**
 
