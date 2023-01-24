@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Archit</h1>
 <h3 align="center">Aspiring Software Developer and second-year computer science student. I am eager to learn new technologies and apply them to either develop something helpful or improve existing applications.</h3>
 
-- 🔭 I’m currently working on **Mental Wellbeing**
+- 🔭 I’m currently working on **smartcontracts.fyi**
 
 - 🌱 I’m currently learning **Solidity** and practicing **React Js**
 
