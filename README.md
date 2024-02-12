@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Archit</h1>
-<h3 align="center">Aspiring full stack web3 developer. Learning and researching Defi.</h3>
+<h3 align="center">Full stack web3 developer. Learning and researching Defi.</h3>
 
 🔭 I’m currently working on **smoood finance**
 
