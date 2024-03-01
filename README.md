@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on **smoood finance**
 
-🌱 I’m currently learning and researching DeFi projects.
+🌱 I’m currently learning and researching DeFi projects and doing **CTFs**.
 
 👯 I’m looking to collaborate on Web3 development projects.
 
