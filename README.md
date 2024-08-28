@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Archit</h1>
 <h3 align="center">Full stack web3 developer. Learning and researching Defi.</h3>
 
-🔭 I’m currently working as as a **Research Engineer** at **Stackr Labs** 
+🔭 I’m currently working as a **Research Engineer** at **Stackr Labs** 
 
 🌱 I’m currently learning and researching DeFi projects and doing **CTFs**.
 
