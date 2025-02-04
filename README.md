@@ -5,7 +5,7 @@
 
 🧑🏻‍💻 Prev: Research Engineer @stackrlabs
 
-🌱 Computer Science grad student.
+🌱 Computer Science undergrad student.
 
 📫 Reach out to me at **architsharma711@gmail.com**.
 
